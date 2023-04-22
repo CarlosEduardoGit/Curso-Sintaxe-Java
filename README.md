@@ -38,3 +38,33 @@
 ## Escopo de variáveis
 
 ## Entrada e saída básicas
+
+### Entrada não formatada 
+
+### Saída não formatada
+
+### Entrada formatada
+
+### Saída formatada
+
+## Operadores e expressões
+
+### Operador de atribuição simples
+
+### Operadores aritméticos
+
+### Promoção e coerção
+
+### Operadores relacionais
+
+### Operadores lógicos
+
+### Operadores de atribuição composta
+
+### Operador ternário
+
+### Operadores bitwise
+
+### Precedência de avaliação de operadores
+
+## Estruturas de controle
