@@ -1,4 +1,4 @@
-# Curso-Sintaxe-Java
+# Curso Sintaxe Java
 
 #### O que é?
 
