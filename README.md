@@ -2,7 +2,6 @@
 
 #### O que é?
 
-
 #### Para que serve?
 
 ## Ambiente Java
@@ -18,6 +17,7 @@ Em um programa em Java pode existir um ou mais arquivos-fonte, denominado unidad
 * uma declaração de pacote (package)
 * uma ou mais diretivas de importação (import);
 * uma ou mais declarações de classes (class), de interfaces (interface) ou de enumerações (enum).
+
 
                         [Imagem]
 
@@ -49,6 +49,22 @@ O java é uma linguagem sensivel ao caixa, em toda as suas construções as letr
                         [Imagem]
 
 ## Comentários
+
+Dentro dos programas é permitida a inclusão de comentários e fragmentos de texto que servem para registro de explicações, anotações ou outras informações necessárias.
+
+Embora façam parte do arquivo de programa, são desconciderados pelo compilador, de modo que neles possa figurar qualquer caractere ou acentuação.
+
+                        [Imagem]
+                        
+O comentário de linha é o mais simples, iniciado por duas barras //, em que o texto incluído após as barras até o final da linha é considerado como comentário.
+
+                        [Imagem]
+                        
+O comentário de bloco delimita várias linhas consecutivas como um único comentário. Seu início é estabelecido com a combinação dos caracteres /* e seu final com */ como no trecho de programa
+
+                        [Imagem]
+                        
+O 
 
 ## Compilação e execução
 
