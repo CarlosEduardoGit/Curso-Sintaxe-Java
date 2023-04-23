@@ -7,7 +7,40 @@
 
 ## Primeiro programa - Hello World
 
+Em um programa em Java pode existir um ou mais arquivos-fonte, denominado unidade de compilação, os quais podem conter:
+
+* uma declaração de pacote (package)
+* uma ou mais diretivas de importação (import);
+* uma ou mais declarações de classes (class), de interfaces (interface) ou de enumerações (enum).
+
+                        [Imagem]
+
+Apenas um dos elementos declarados pode ser público e seu nome define o nome do arquivo.
+
+                        [Imagem]
+
+As classes, interfaces e enumeração presentes nos arquivos são organizadas nos pacotes indicados, que por sua vez são dispostos em módulos.
+
+                        [Imagem]
+
+Todo programa deve ter no mínimo o método main(String []) que define seu início e é declarado public, statice void dentro de alguma de suas classes.
+
+                        [Imagem]
+
+Quando se omite a declaração de pacote, a classe é posicionada num pacote denominado default.
+
+                        [Imagem]
+                        
+O código dessse programa pode ser digitado com qualquer editor de texto e salvo em um arquivo denominado P020HelloWorld.java (arquivo-fonte do programa) em um diretório como C:/JGP4/Cap02_Sintaxe/src ou outro de sua preferência.
+
 ## Uso de maiúsculas e minúsculas
+
+O java é uma linguagem sensivel ao caixa, em toda as suas construções as letras minúsculas e maiúsculas são consideradas diferentes
+
+* nome é diferente de NOME,
+* assim como public é diferente de Public.
+
+                        [Imagem]
 
 ## Comentários
 
