@@ -5,6 +5,12 @@
 
 #### Para que serve?
 
+## Ambiente Java
+
+## Recursos necessários
+
+## Instalando e configurando o java
+
 ## Primeiro programa - Hello World
 
 Em um programa em Java pode existir um ou mais arquivos-fonte, denominado unidade de compilação, os quais podem conter:
@@ -43,6 +49,18 @@ O java é uma linguagem sensivel ao caixa, em toda as suas construções as letr
                         [Imagem]
 
 ## Comentários
+
+## Compilação e execução
+
+### Compilação
+
+### Execução
+
+### Execução direta
+
+### Execução de caracteristicas de apresentação
+
+## Console jshell
 
 ## Tipos de Dados Primitivos
 
