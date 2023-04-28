@@ -67,7 +67,22 @@ A instalação do JavaSE ou JDK é simples e pode ser feita seguindo as instruç
 
 É comum que os sistemas operacionais possuam variáveis de ambiente, isso é, variáveis padronizadas cujo valor permite ajustar ou personalizar o funcionamento do sistema e também de programas instalados.
 
+* O primeiro ajuste do Java, obrigatório, é editar a variável de ambiente PATH, que geralmentejá existe e cuja finalidade é listar os diretórios onde o sistema operacional buscará programas ou comandos para execução .
 
+Modificaremos o PATH para adicionar o diretório em que estão instaladas as ferramentas do JavaSE (na plataforma Windows, o usual é C:\Program Files\Java\jdk-16\bin).
+
+* O segundo ajuste, opcional, é criar uma variável de ambiente denominada CLASSPATH com conteúdo inicial . (ponto, caractere que indica o diretório atual).
+
+A variável CLASSPATH é usada pela plataforma Java para localizar classes e pacotes que serão utilizados , permitindo sua organização em diferentes diretórios do sistema.
+
+Esses ajustes da configuração do JavaSE no Windows 10 são simples.
+
+1. Abra o File Explorer,
+2. localize Meu Computador.
+3. Acione o botão direito e selecione Propriedades.
+4. Na janela que se abre, acione Configuração avançadas do sistema. 
+5. Na nova janela propriedades do sistema, acione o botão Variaveis de Ambiente.
+6. 
 
 ## Primeiro programa - Hello World
 
