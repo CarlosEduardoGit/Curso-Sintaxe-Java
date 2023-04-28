@@ -30,7 +30,32 @@ Um ambiente mínimo é aquele que permite apenas a execução de aplicações Ja
 
 ## Recursos necessários
 
+Um ambiente de desenvolvimento mínimo para a construção de aplicações Java requer o JavaSE, conhecido também como JDk (Java Development Kit), um conjunto útil de ferramentas de desenvolvimento considerado padrão e que inclui o ambiente de execução JavaRE.
+
+Recomenda - se o uso do JavaSE na versão 15 (ou mais atual) de modo que todos os exemplos contidos neste material possam ser utilizados integralmente.
+
+O download gratuito desse produto pode ser feito em 
+
+Além do JavaSE, é útil dispor da documentação da API da mesma versão, a qual inclui informações sobre os pacotes de classes, as classes contidas e também suas ferramentas.
+
+O download ou consulta da documentação pode ser feito a partir do mesmo site de obtenção do JavaSE.
+
+A edição dos programas Java pode ser feita com um editor de texto simples, tal como 
+
+* notepad (bloco de notas) dos sistemas MS Windows
+* gedit dos sistemas Linux
+
+mas é conveniente uma ferramenta capaz de efetuar o destaque de sintaxe do Java.
+
+A melhor opção é o uso de um IDE (Integrated Development Environment) apropriado para Java, como 
+
+* Eclipse - 
+* NetBeans - 
+* IntelliJ IDEA - 
+
 ## Instalando e configurando o java
+
+
 
 ## Primeiro programa - Hello World
 
