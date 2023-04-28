@@ -2,6 +2,14 @@
 
 #### O que é?
 
+Temos então que em uma linguagem de programação, sintaxe corresponde as regras de escrita dos comandos de texto para que os termos da linguagem sejam corretamente interpretados pelo computador e consequentemente executados.
+
+Dentro da programação, sintaxe e semântica são termos relacionados a qualquer linguagem. 
+
+A sintaxe trata da estrutura de um programa escrito em código, envolvendo o conjunto de frases permitidas de uma linguagem, 
+
+já a semântica mostra o significado associado dessas frases.
+
 #### Para que serve?
 
 ## Ambiente Java
