@@ -6,6 +6,28 @@
 
 ## Ambiente Java
 
+Java é uma linguagem independente de plataforma porque seus programas são compilados em um formato próprio denominado bytecodes, instruções de tamanho fixo
+que constituem a linguagem da JVM, armazenados em arquivos de classe .class.
+
+Em cada combinação específicas de hardware e sistema operacional deve existir uma JVM apropriada, capaz de interpretar os bytecodes ou de transformá-los em código 
+nativo que possa ser execultado pelo processador do sistema.
+
+A JVM sempre utiliza os serviços oferecidos pelo sistema operacional em uso.
+
+Assim o ambiente Java é composto com a JVM, sua API e com as classes da aplicação
+
+                                                    [Imagem]
+                                                    
+O desenvolvimento de programas em Java requer um editor, que permita salvar o programa-fonte como arquivos de extensão .java;
+
+e um compilador Java para transformar os arquivos do programa-fonte em bytecodes, salvos em arquivos de classe de extensão .class.
+
+Para execultar uma aplicação Java, é necessária uma JVM que interpretará ou conduzirá a execução dos arquivos de classe, usando direta ou indiretamente o código nativo do sistema.
+
+                                                    [Imagem]
+                                                    
+Um ambiente mínimo é aquele que permite apenas a execução de aplicações Java, o que é possível com o uso do JavaRE (Java Runtime Environment).
+
 ## Recursos necessários
 
 ## Instalando e configurando o java
