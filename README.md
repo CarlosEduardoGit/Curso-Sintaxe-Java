@@ -63,6 +63,10 @@ A melhor opção é o uso de um IDE (Integrated Development Environment) apropri
 
 ## Instalando e configurando o java
 
+A instalação do JavaSE ou JDK é simples e pode ser feita seguindo as instruções do programa instalador, mas para que suas ferramentas funcionem corretamente no prompt de comandos são necessários alguns ajustes no sistema.
+
+É comum que os sistemas operacionais possuam variáveis de ambiente, isso é, variáveis padronizadas cujo valor permite ajustar ou personalizar o funcionamento do sistema e também de programas instalados.
+
 
 
 ## Primeiro programa - Hello World
