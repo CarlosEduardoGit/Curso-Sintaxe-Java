@@ -89,10 +89,10 @@ Da forma como indicado, os ajustes valem para o usuário atual. Se preferir, alt
 
 Para testar, abra um novo prompt de comandos e digite (observe que o símbolo > representa o prompt de comandos do sistema e não deve ser digitado):
 
-> java -version
+[> java -version
 openjdk version "16" 2021-03-16
 OpenJDK Runtime Environment (build 16+36-2231)
-OpenJDK 64-Bite Server VM (build 16+36-2231, mixed mode, sharing)
+OpenJDK 64-Bite Server VM (build 16+36-2231, mixed mode, sharing)]
 
 A exibição do número da versão do Java e de seu build indica que está tudo funcionando corretamente.
 
