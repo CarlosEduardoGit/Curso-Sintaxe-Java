@@ -82,7 +82,19 @@ Esses ajustes da configuração do JavaSE no Windows 10 são simples.
 3. Acione o botão direito e selecione Propriedades.
 4. Na janela que se abre, acione Configuração avançadas do sistema. 
 5. Na nova janela propriedades do sistema, acione o botão Variaveis de Ambiente.
-6. 
+6. Nas variáveis do usuário, localize a entrada path, editando-a para adicionar o diretório das ferramentas do JavaSE (como C:\Program File\Java\jdk-16\bin).
+7. Feche todas as janelas abertas para ativar a configuração
+
+Da forma como indicado, os ajustes valem para o usuário atual. Se preferir, altere as variáveis do sistema para incluir todos os usuários.
+
+Para testar, abra um novo prompt de comandos e digite (observe que o símbolo > representa o prompt de comandos do sistema e não deve ser digitado):
+
+> java -version
+openjdk version "16" 2021-03-16
+OpenJDK Runtime Environment (build 16+36-2231)
+OpenJDK 64-Bite Server VM (build 16+36-2231, mixed mode, sharing)
+
+A exibição do número da versão do Java e de seu build indica que está tudo funcionando corretamente.
 
 ## Primeiro programa - Hello World
 
