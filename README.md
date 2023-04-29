@@ -89,6 +89,8 @@ Da forma como indicado, os ajustes valem para o usuário atual. Se preferir, alt
 
 Para testar, abra um novo prompt de comandos e digite (observe que o símbolo > representa o prompt de comandos do sistema e não deve ser digitado):
 
+                                      [Imagem]
+
 [> java -version
 openjdk version "16" 2021-03-16
 OpenJDK Runtime Environment (build 16+36-2231)
@@ -142,21 +144,39 @@ Embora façam parte do arquivo de programa, são desconciderados pelo compilador
 
                         [Imagem]
                         
-O comentário de linha é o mais simples, iniciado por duas barras //, em que o texto incluído após as barras até o final da linha é considerado como comentário.
+* O comentário de linha é o mais simples, iniciado por duas barras //, em que o texto incluído após as barras até o final da linha é considerado como comentário.
 
                         [Imagem]
                         
-O comentário de bloco delimita várias linhas consecutivas como um único comentário. Seu início é estabelecido com a combinação dos caracteres /* e seu final com */ como no trecho de programa
+* O comentário de bloco delimita várias linhas consecutivas como um único comentário. Seu início é estabelecido com a combinação dos caracteres /* e seu final com */ como no trecho de programa
 
                         [Imagem]
                         
-O 
+* O 
 
 ## Compilação e execução
 
+O uso exclusivo do JavaSE, sem um IDE, requer o console, ou seja, um prompt de comandos no Windows, Mac, Unix ou Linux para compilar ou executar programas Java.
+
+                                        [Imagem]
+
 ### Compilação
 
+Por meio de um console é possível navegar até o diretório em que o arquivo-fonte P0201HelloWorld.java foi salvo, e efetuar sua compilação com o comando:
+
+* javac P0201HelloWord.java
+
+O nome do arquivo-fonte a ser compilado deve ser fornecido obrigatoriamente com sua extensão .java. 
+
+Quando a compilação corre sem erros, nenhuma mensagem é exibida, produzindo o arquivo P0201HelloWorld.class.
+
+Caso sejam exibidas mensagens de erros, as linhas onde ocorreram também serão exibidas.
+
+Um editor de texto deve ser usado para a correção antes de uma nova compilação.
+
 ### Execução
+
+
 
 ### Execução direta
 
