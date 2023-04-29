@@ -91,10 +91,10 @@ Para testar, abra um novo prompt de comandos e digite (observe que o símbolo > 
 
                                       [Imagem]
 
-[> java -version
+/> java -version
 openjdk version "16" 2021-03-16
 OpenJDK Runtime Environment (build 16+36-2231)
-OpenJDK 64-Bite Server VM (build 16+36-2231, mixed mode, sharing)]
+OpenJDK 64-Bite Server VM (build 16+36-2231, mixed mode, sharing)
 
 A exibição do número da versão do Java e de seu build indica que está tudo funcionando corretamente.
 
@@ -176,7 +176,15 @@ Um editor de texto deve ser usado para a correção antes de uma nova compilaç�
 
 ### Execução
 
+Para executar o programa P0201HelloWorld é preciso acionar a JVM com o comando:
 
+/> java P0201HelloWorld
+
+Usualmente a extensão .class não é fornecida quando se executa um programa Java com a JVM.
+
+                                        [Imagem]
+                                        
+A declaração System.out.println() efetua a exibição de mensagens ou valores no console, ou seja, a impressão ou a saída de dados.
 
 ### Execução direta
 
